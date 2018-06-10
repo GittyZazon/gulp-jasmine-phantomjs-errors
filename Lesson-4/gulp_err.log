@@ -1,0 +1,12 @@
+[12:20:25] 'lint' errored after 636 ms
+[12:20:25] [31mESLintError[39m in plugin "[36mgulp-eslint[39m"
+Message:
+    Expected linebreaks to be 'LF' but found 'CRLF'.
+Details:
+    fileName: C:\Users\gitty\Documents\Udacity-FEND\Gulp\ud892\Lesson 4\js\extra.js
+    lineNumber: 1
+    domainEmitter: [object Object]
+    domain: [object Object]
+    domainThrown: false
+
+[12:20:25] 'default' errored after 640 ms
